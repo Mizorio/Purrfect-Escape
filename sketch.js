@@ -1,3 +1,4 @@
+//According to JavaScript
 let catImage;
 let catJumpImage;
 let cat;
